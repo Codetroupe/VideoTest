@@ -1,0 +1,68 @@
+#built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+out/
+build/
+
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio
+*.iml
+.idea
+
+# Local IDEA workspace
+.idea/workspace.xml
+
+# Gradle cache
+.gradle
+
+
+# Log Files
+*.log
+
+
+#如果是SVN则在.idea/workspace.xml文件的中</list>后面加
+
+   # <ignored path="local.properties" />
+   # <ignored path=".gradle/" />
+   # <ignored path=".idea/" />
+   # <ignored path="build/" />
+   # <ignored path="app/build/" />
+   # <ignored mask="*.iml" />
+   # <ignored mask="*.dex" />
+   # <ignored mask="*.class" />
+   # <ignored mask="*.apk" />
+   # <ignored mask="*.ap_" />
+   # <ignored mask="*.log" />
+   # <ignored path="macao-base-api/build/" />
+   # <ignored path="macao-base-impl/build/" />
+   # <ignored path="macao-commonutil/build/" />
+   # <ignored path="macao-database-impl/build/" />
+   # <ignored path="macao-home-api/build/" />
+   # <ignored path="macao-home-impl/build/" />
+   # <ignored path="macao-information-api/build/" />
+   # <ignored path="macao-information-impl/build/" />
+   # <ignored path="macao-login-api/build/" />
+   # <ignored path="macao-login-impl/build/" />
+   # <ignored path="macao-personal-api/build/" />
+   # <ignored path="macao-personal-impl/build/" />
+   # <ignored path="macao-router/build/" />
+   # <ignored path="macao-scenic-api/build/" />
+   # <ignored path="macao-scenic-impl/build/" />
+   # <ignored path="macao-ui/build/" />
+   # <ignored path="macao-welcome-api/build/" />
+   # <ignored path="macao-welcome-impl/build/" />
+   # <ignored path="umlibrary/build/" />
+   # <ignored path="*/build/" />

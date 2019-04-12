@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Test</string>
+
+
+    <string name="actions_fullscreen">Full Screen</string>
+    <string name="blur_button">Blur Dialog</string>
+    <string name="blur_title">Blur Sample</string>
+    <string name="dialog_fragment_title">Blur Dialog Fragment\n\nhttps://github.com/tvbarthel/BlurDialogFragment</string>
+    <string name="activity_sample_blur_radius">Blur radius : </string>
+    <string name="activity_sample_down_scale_factor">Down Scale Factor : </string>
+    <string name="activity_sample_blur_debug">Debug enable</string>
+    <string name="activity_sample_blur_dimming">Dimming enable</string>
+    <string name="activity_sample_actionbar_blurred">Apply blur effect on action bar</string>
+    <string name="activity_sample_blur_userendercript">Use RenderScript if possible</string>
+
+
+    <string name="search_hint">热门搜索</string>
+    <string name="search_cancel">取消</string>
+    <string name="search_verify">搜索</string>
+
+    <string name="search_all">大家都在搜</string>
+    <string name="search_lately">最近搜索</string>
+
+    <string name="search_clear">清除历史</string>
+
+</resources>
